@@ -1,0 +1,5 @@
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\sup\sup\bin\Debug\sup.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\sup\sup\bin\Debug\sup.pdb
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\sup\sup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\sup\sup\obj\Debug\sup.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\sup\sup\obj\Debug\sup.pdb
