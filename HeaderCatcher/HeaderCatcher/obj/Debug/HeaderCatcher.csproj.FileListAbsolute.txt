@@ -1,0 +1,5 @@
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\HeaderCatcher\HeaderCatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\HeaderCatcher\HeaderCatcher\bin\Debug\HeaderCatcher.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\HeaderCatcher\HeaderCatcher\bin\Debug\HeaderCatcher.pdb
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\HeaderCatcher\HeaderCatcher\obj\Debug\HeaderCatcher.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\HeaderCatcher\HeaderCatcher\obj\Debug\HeaderCatcher.pdb
